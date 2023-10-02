@@ -1,1 +1,2 @@
-git merge is a way of combining changes from one branch (source branch) into another branch (target branch) where as git rebase is a way of moving the changes from one branch onto another branch
+
+Remote repositories are versions of your project that are hosted on the Internet or network somewhere. They can be accessed by other team members.
